@@ -1,0 +1,19 @@
+# Python standard ignore file
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.pyd
+*.pyo
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
